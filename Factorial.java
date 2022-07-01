@@ -2,6 +2,7 @@ package com.aurionpro.assignments;
 
 import java.util.Scanner;
 
+
 public class Factorial {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -21,6 +22,7 @@ public class Factorial {
 				while(number<0) {
 					factorial *= number;
 					number++;
+
 				}
 			}
 		}
