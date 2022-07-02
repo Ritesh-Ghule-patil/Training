@@ -14,6 +14,7 @@ public class FibonacciSeries {
 		int second = 1;
 		
 		if(number == 0)
+			
 		{ 
 			System.out.println("Please enter positive integer Number");
 			System.exit(0);
