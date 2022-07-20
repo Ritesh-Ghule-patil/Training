@@ -58,6 +58,5 @@ public class EmployeeArrayListTest {
 		System.out.println("\n---Does ArrayList Contain Ritesh object or not---\n");
 		Boolean res =employeeList.contains(emplyees[0]);
 		System.out.println(res);
-		
 	}
 }
