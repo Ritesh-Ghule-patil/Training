@@ -6,6 +6,4 @@ public class ThreadDemo implements Runnable {
 	public void run() {
 		System.out.println("Thead is created");
 	}
-	
-	
 }
